@@ -1,0 +1,14 @@
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\bin\Debug\net9.0\PRIMOESERCIZIO.exe
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\bin\Debug\net9.0\PRIMOESERCIZIO.deps.json
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\bin\Debug\net9.0\PRIMOESERCIZIO.runtimeconfig.json
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\bin\Debug\net9.0\PRIMOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\bin\Debug\net9.0\PRIMOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.AssemblyInfoInputs.cache
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.AssemblyInfo.cs
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.csproj.CoreCompileInputs.cache
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\refint\PRIMOESERCIZIO.dll
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.pdb
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\PRIMOESERCIZIO.genruntimeconfig.cache
+C:\Users\f.tedesco\Desktop\PRIMOESERCIZIO\PRIMOESERCIZIO\obj\Debug\net9.0\ref\PRIMOESERCIZIO.dll
